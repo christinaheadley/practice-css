@@ -1,0 +1,36 @@
+body {
+  padding: 30px;
+  font-size: 18px;
+  color: SteelBlue;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+.wrapper {
+  border-color: steelblue;
+  border-style: solid;
+  border-width: 0.3em;
+  margin: 30px 50px 0px 50px;
+}
+
+section h2 {
+  color: white;
+  background-color: steelblue;
+  box-shadow: 0px 3px lightgray;
+  padding: 18px 12px;
+  font-size: 1.2em;
+}
+
+[role="banner"] {
+  text-align: center;
+}
+
+.contact {
+  color: white;
+  background-color: steelblue;
+  box-shadow: 0px 3px lightgray;
+  padding: 18px 12px;
+  text-align: center;
+}
+
+[role="contentinfo"] {
+  text-align: center;
+}
